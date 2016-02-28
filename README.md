@@ -1,0 +1,2 @@
+# KillRewards
+KillRewards for spigot
