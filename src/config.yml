@@ -1,0 +1,16 @@
+KillRewards:
+    MultiGroup: false
+    Economy:
+        Enabled: true
+        Money: 80
+        MultiGroup:
+          Money:
+            Perm1: 80
+            Perm2: 160
+            Perm3: 240
+            Perm4: 320
+    Message: Asesinado
+      Perm1:
+      Perm2:
+      Perm3:
+      Perm4:
