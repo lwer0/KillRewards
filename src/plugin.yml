@@ -1,0 +1,8 @@
+name: KillRewards
+version: 1.0
+main: com.lwer0.playreward.Main
+depend: [Vault]
+commands:
+ killrewards:
+   description: All killrewards commands!
+   usage: /killrewards
